@@ -24,8 +24,8 @@ for x in data:
  filename_small = filename.replace(".", "_320X240.")
  extract_audio(x,filename_small)
  
+#load from file
 #print(filename_small) 
-
 #extract_audio(x) 
     
     #pprint(data[data])
